@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(tomato, orange, white);
+}
+
+.accordion-item{
+    background-image: linear-gradient(aqua,white, gray);
+}
